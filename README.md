@@ -20,16 +20,24 @@ Ushbu b'limda ikki xil geometrik muomoga yechim topishimiz mumkin.
 ![geomrty image](/image/geometry-guru.png)
 
 ### 1.1 Aylana yuzini topish
-Biz aylana radiusini kiritamiz dastur bizga aylana yuzini hisoblab beradi.<br>
+Biz aylana radiusini kiritamiz dastur bizga aylana yuzini hisoblab beradi.
+<br>
+
 Kod
 ![aylana](/image/circle.png)
+<br>
+
 Dastur ishlashi
 ![aylana](/image/circle-gif.gif)
 
 ### 1.2 To'g'ri to'rtburchak perimetrini hisoblash
-Biz to'rtburchakning eni va bo'yini kiritamiz u bizga peremetrini hisoblab beradi.<br>
+Biz to'rtburchakning eni va bo'yini kiritamiz u bizga peremetrini hisoblab beradi.
+<br>
+
 Kod
 ![Turtburchak](/image/trangle-image.jpg)
+<br>
+
 Dastur ishlashi
 ![Turtburchak](/image/trangle-gif.gif)
 
