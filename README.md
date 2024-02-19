@@ -6,7 +6,9 @@ CalculatR loyhasida dastlab ikkta bo'lim taqdim qilinadi.<br>
 1. Geomtry Guru
 2. Simple Calculatr
 <br>
+
 ![home page](/image/home-page.png)
+
 <br>
 ## 1.0 Geomtry Guru
 Ushbu b'limda ikki xil geometrik muomoga yechim topishimiz mumkin.
