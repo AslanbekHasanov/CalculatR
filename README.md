@@ -25,6 +25,7 @@ Biz aylana radiusini kiritamiz dastur bizga aylana yuzini hisoblab beradi.
 
 Kod
 ![aylana](/image/circle.png)
+
 <br>
 
 Dastur ishlashi
