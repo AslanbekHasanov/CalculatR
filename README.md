@@ -38,6 +38,7 @@ Biz to'rtburchakning eni va bo'yini kiritamiz u bizga peremetrini hisoblab berad
 <br>
 
 Kod
+<br>
 ![Turtburchak](/image/trangle-image.jpg)
 <br>
 
