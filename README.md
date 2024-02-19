@@ -8,14 +8,12 @@ CalculatR loyhasida dastlab ikkta bo'lim taqdim qilinadi.<br>
 <br>
 ![home page](/image/home-page.png)
 <br>
-
 ## 1.0 Geomtry Guru
 Ushbu b'limda ikki xil geometrik muomoga yechim topishimiz mumkin.
 1. Aylana yuzini topish
 2. To'g'ri to'rtburchak perimetrini hisoblash
 <br>
-
-![](/image/geometry-guru.png)
+![geomrty image](/image/geometry-guru.png)
 ### 1.1 Aylana yuzini topish
 Biz aylana radiusini kiritamiz dastur bizga aylana yuzini hisoblab beradi.<br>
 Kod
@@ -33,5 +31,6 @@ Dastur ishlashi
 ## 2.0 Simple Calculator
 Ushbu bolimda biz ikkta oddiy hisoblash jarayonlarini ko'rishimiz mumkin.
 1. Calculatr
-2. Tub Number<br>
+2. Tub Number
+<br>
 ![Calculatr kodi](/image/calculator-image.png)
