@@ -4,7 +4,8 @@ This is a simple CalculatR project. This project can be viewed as a perfect purc
 ## Loyhaning dastlabki ko'rinishi
 CalculatR loyhasida dastlab ikkta bo'lim taqdim qilinadi.<br>
 1. Geomtry Guru
-2. Simple Calculatr<br>
+2. Simple Calculatr
+<br>
 ![home page](/image/home-page.png)
 <br>
 
